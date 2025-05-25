@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "description": "/assets/projects/electronics_sales/description.md",
+        "images": [
+            "/assets/projects/electronics_sales/dashboard.png",
+            "/assets/projects/electronics_sales/sql_query.png"
+        ],
+        "category": "Sales Analysis",
+        "date": "April 2025",
+        "url": "github.com/jerilalbi/electronics_sales_analysis",
+        "github_url": "https://github.com/jerilalbi/electronics_sales_analysis"
+    },
+    {
+        "id": 2,
+        "description": "/assets/projects/marketing_analysis/description.md",
+        "images": [
+            "/assets/projects/marketing_analysis/dashboard1.jpg",
+            "/assets/projects/marketing_analysis/dashboard2.jpg",
+            "/assets/projects/marketing_analysis/dashboard3.jpg",
+            "/assets/projects/marketing_analysis/dashboard4.jpg"
+        ],
+        "category": "Marketing Analysis",
+        "date": "May 2025",
+        "url": "github.com/jerilalbi/Marketing_Analysis",
+        "github_url": "https://github.com/jerilalbi/Marketing_Analysis"
+    }
+]
