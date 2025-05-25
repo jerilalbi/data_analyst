@@ -1095,7 +1095,6 @@ section,
 .contact-sec-bx {
   display: flex;
   justify-content: space-evenly;
-  width: 100%;
 }
 
 .contact .info-item i {
@@ -1169,6 +1168,17 @@ section,
 
 .contact .php-email-form button[type=submit]:hover {
   background: color-mix(in srgb, var(--accent-color), transparent 25%);
+}
+
+@media (max-width: 575px) {
+
+  .contact-sec-bx {
+    flex-direction: column;
+  }
+
+  .info-item+.info-item {
+    margin-top: 20px;
+  }
 }
 
 /*--------------------------------------------------------------
