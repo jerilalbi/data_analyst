@@ -3,7 +3,7 @@
     const projectId = prams.get('id');
 
     try {
-        const projectData = await fetch('/assets/data/projects.json')
+        const projectData = await fetch('assets/data/projects.json')
 
         const projects = await projectData.json()
 
